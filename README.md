@@ -4,8 +4,11 @@ A new Flutter project.
 
 ## Steps to setup Strapi 
 1)create a folder named Flutter_strapi.
+
 2) transfer the imported flutter project in above folder.
+
 3) open cmd go to Flutter_strapi.
+
 4) type command npx create-strapi-app@latest my-project.
 5) after login strapi admin panel opens in chrome.
 6) go to settings in panel and go to API tokens
